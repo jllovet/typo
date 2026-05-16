@@ -364,6 +364,7 @@ footer a {
   width: 45px;
   margin-right: 0.7rem;
   border-radius: 50%;
+  object-fit: cover;
 }
 
 .author {
